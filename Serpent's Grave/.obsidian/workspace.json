@@ -1,0 +1,187 @@
+{
+  "main": {
+    "id": "8d5e32c8b873f76a",
+    "type": "split",
+    "children": [
+      {
+        "id": "e08897c197d3ee13",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "49feac70b3f26dfb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Groups/Our Overlords/Council of Miracles.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1f908f769ddcb591",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Unsure/Kyre.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f150e99ca9483a93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Summaries/Session 8.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "66d9118e2a079200",
+    "type": "split",
+    "children": [
+      {
+        "id": "812e1674a3e2a4c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ba918447c0c32df",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "aefd97d3f923e0f7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "165749c0f884d30c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f9207ba2f0832b3d",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd8e393c76115800",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba7a65e0e200aad9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "NPCs/Unsure/Kyre.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ddcd9aa7d6f6b385",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "NPCs/Unsure/Kyre.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a4b4c24ea73b62c2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9cd713071929f53c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "NPCs/Unsure/Kyre.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "1f908f769ddcb591",
+  "lastOpenFiles": [
+    "Groups/Our Overlords/Council of Miracles.md",
+    "Party Members/Sapa Fue'arro.md",
+    "Magic Items.md",
+    "Session Summaries/Session 8.md",
+    "Session Summaries/Session 7.md",
+    "Session Summaries/Session 6.md",
+    "Party Members/Alaric Ulfberht.md",
+    "NPCs/Unsure/Warren.md",
+    "NPCs/Unsure/Zeal Caulder.md",
+    "NPCs/Allies/Honor.md"
+  ]
+}

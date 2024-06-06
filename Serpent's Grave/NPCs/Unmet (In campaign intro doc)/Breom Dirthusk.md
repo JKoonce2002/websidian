@@ -1,0 +1,1 @@
+Head of [[The Iron Hand]]. A burly gnome.

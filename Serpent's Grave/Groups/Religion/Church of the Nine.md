@@ -1,0 +1,1 @@
+The former worships the [[Circle of Nine]], the deities of heaven, earth, and the horizon between. These deities are listed in the table below. The Church of the Nine is most prominent in [[The Spine]], where most of the citizens often boast a performative sort of hollow piety. (from the campaign intro doc)

@@ -1,0 +1,1 @@
+One of the most powerful arcane masterminds in the whole of [[Atma]], Goofus Gaffus is capable of derailment, comedic relief, and general shenanigans on a large scale.

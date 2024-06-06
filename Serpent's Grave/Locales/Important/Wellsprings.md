@@ -1,0 +1,1 @@
+Places where the [[Sky Snake]]'s blood and [[Coralaendryn]]'s shattered magic coalesced into a tangible source of magic, possibly similar to [[The Queen's Tears]] in the [[Feywild]].

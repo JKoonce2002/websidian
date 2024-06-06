@@ -1,0 +1,1 @@
+The second most populated archipelago in [[Halliard]], Cala is a bustling hub of trade. Its primary import and export is *everything*, because Cala is home to pretty much every major shipping business on the Seaside.

@@ -1,0 +1,1 @@
+One of the people in [[The Desert]]. Husband to [[Char]] and the ranger who has [[Aviv]] as a companion.

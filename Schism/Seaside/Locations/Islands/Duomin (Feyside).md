@@ -1,0 +1,3 @@
+One of two halves on the island of Duomin, ([[Duomin (Plainside)]] being the other). It serves as the best entrance to the Feywild in [[Halliard]], especially considering that its dense magical forests originally sprouted due to an old rift between the Feywild and the PMP causing a couple acres of a Fey forest to swap places with a decent chunk of what was originally a vast plains.
+
+Full of lush forests, hidden hot springs, and a wealth of creatures of fey ancestry, the Feyside of Duomin is a tourist hotspot.

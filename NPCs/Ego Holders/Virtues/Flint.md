@@ -1,0 +1,3 @@
+Holder of the [[Strength]] ego, Flint hails from the world of Serpent's Grave. He is a Glory Paladin seeking to prove himself as a worthy combatant as well as commander. He originally wanted to join the Shield of the Spine before being shunted into adventuring work, where he ended up working with Honor and Char.
+
+Currently, Flint holds the rank of captain in the division of knights overseen by [[Maira Lavaralda]].

@@ -1,0 +1,1 @@
+Uriel is the current holder of [[The Sun]]. The Ego, not the celestial body.

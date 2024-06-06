@@ -1,0 +1,1 @@
+A druid and husband to [[Honor]]. Lives in [[The Desert]].

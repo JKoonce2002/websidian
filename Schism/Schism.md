@@ -1,0 +1,1 @@
+This is the name given to the Class-A [[Classification of Subplanes|subplanar]] system which houses a Prime Material Plane of the same name. Until the Conciliation which broke down the Schism Line that separated them, the plane was split into an mostly-water island side ([[Halliard]])

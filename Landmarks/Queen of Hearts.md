@@ -1,0 +1,3 @@
+The Queen of Hearts is the casino owned by [[Evangeline Phylicia]] and [[Carmen Teivel]] which is built into an area of [[The Face]] a few miles away from any city or town.
+
+Every customer notes feeling a little less lucky than normal whenever they play, but a little more lucky when they leave. It is separated into parts, and the top has an arena in which [[The Party (Ego)]] fought the final battle of the Ego five-shot.

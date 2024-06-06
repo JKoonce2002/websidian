@@ -1,0 +1,3 @@
+Jeff is the creator of [[Atma]] and is revered as such, though he is known by other names in Atma due to his status and general disconnect from the common folk of the world. Since this world is a figment of his mind, it is possible that he can appear in a mortal form during his dreams, daydreams, or intense brainstorms. When this happens, he holds [[The Chariot]] and, of course, is a member of [[The Party (Ego)]].
+
+He is not the chief deity of this world, although it is his statue which appears in [[The Nexus]] since he is its creator.

@@ -1,0 +1,1 @@
+The desert outside of [[Serpent's Grave]] where people from [[The Silver Hook]] look for magical artifacts.

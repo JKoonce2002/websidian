@@ -1,0 +1,1 @@
+The library of the [[Academy Arcane]]. Curator Kano, run by librarian [[Briok Penhale]].

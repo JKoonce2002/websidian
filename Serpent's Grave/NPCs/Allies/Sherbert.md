@@ -1,0 +1,1 @@
+[[Avery]]'s robot companion. Does not have emotion but is great at emulating it, Avery is "working on the feelings" though.

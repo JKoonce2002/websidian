@@ -1,0 +1,1 @@
+This is the plot, to date, of the campaign spanning the entire world of [[Schism]].

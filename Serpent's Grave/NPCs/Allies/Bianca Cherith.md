@@ -1,0 +1,3 @@
+She is [[Alaric Ulfberht]]'s mom and the principal/founder of [[Sovorel Academy]]. She is an Eladrin stuck in her Winter form since that's what she left the [[Feywild]] in.
+
+She began as a seamstress until she realized that she could use her Fey magic, something in high demand, to pick up work in other ways. She started as an adventurer, realized she liked socializing too much, and went back to [[The Coils]] to begin teaching, though not without first proposing to her then-sweetheart, now-husband-and-still-sweetheart, [[Barrat Ulfberht]]

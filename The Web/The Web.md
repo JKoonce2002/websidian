@@ -1,0 +1,1 @@
+The binding force that connects all [[Classification of Subplanes|Subplanes]] to the central plane of [[Atma]].

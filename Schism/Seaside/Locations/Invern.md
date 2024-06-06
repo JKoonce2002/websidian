@@ -1,0 +1,1 @@
+A shire of halflings in [[Duomin (Feyside)]]. The [[Wanderhymn Family]] is from here. It's most known export is its strawberries!

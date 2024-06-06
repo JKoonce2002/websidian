@@ -1,0 +1,1 @@
+A collection of small islands (comparatively) in [[Halliard]], Mokupuni is Seaside's center of elemental magic and energy.

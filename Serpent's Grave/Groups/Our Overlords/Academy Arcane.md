@@ -1,0 +1,3 @@
+Located in [[The Spine]], the Academy Arcane is the forefront research institute in the whole of the city.
+
+A magical research institution, the Academy Arcane houses both most of the city’s magical research and its foremost magical school, where young sorcerous minds and the city’s magical technologies are developed on the very same campus. While most wizards have private laboratories for performing research, the Academy boasts the greatest array of labs and tools for the study and advancement of magic. The Academy is run by Dean [[Nemia Carraway]], who reports directly to the [[Council of Miracles]]. (From the campaign intro doc)

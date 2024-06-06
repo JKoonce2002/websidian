@@ -1,0 +1,1 @@
+Bordering one edge of the field of [[Kexav]], The Face is a sheer cliff face which nobody has climbed as of yet. This is due to it mostly being dragon territory.

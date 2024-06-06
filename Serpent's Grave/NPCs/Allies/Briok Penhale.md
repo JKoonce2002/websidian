@@ -1,0 +1,1 @@
+Half-orc archivist and professor at the [[Academy Arcane]] with huge muscles and tiny reading glasses. Knows [[Oculin Alba]] well from her time at the library, met the party at the [[Academy Library]]

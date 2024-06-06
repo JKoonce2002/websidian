@@ -1,0 +1,1 @@
+The beast companion of [[Honor]]. A sabretooth tiger.

@@ -1,0 +1,1 @@
+Kaiya is the manager of [[The Gilded Lily]] and a close friend of [[Sapa Fua'auro]], as they have a pair of sending stones for whenever either of them is in danger.

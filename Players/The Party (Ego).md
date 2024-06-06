@@ -1,0 +1,1 @@
+Made of a group of WashU students from Earth from their Natural 20 Club, the party is a group of [[Ego Holders]] who fell into [[Atma]] during what they thought was going to be a D&D oneshot run by Jeff.

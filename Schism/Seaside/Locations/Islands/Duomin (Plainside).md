@@ -1,0 +1,3 @@
+One of two halves on the island of Duomin, ([[Duomin (Feyside)]] being the other). A vast set of plains with interspersed hills and valleys, with one large and imposing range of mountains along the north of it. Almost all of [[Halliard]]'s goliaths are from here.
+
+Harsh yet not unforgiving, there are a multitude of training camps, monasteries, nomadic groups, and similar icons of stoic civilization.

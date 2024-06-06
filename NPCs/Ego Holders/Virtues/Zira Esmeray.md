@@ -1,0 +1,1 @@
+The current holder of [[The Moon]]. The Ego, not the celestial body.

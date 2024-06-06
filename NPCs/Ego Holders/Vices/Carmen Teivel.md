@@ -1,0 +1,1 @@
+Holder of [[The Devil]]. Married to [[Evangeline Phylicia]].

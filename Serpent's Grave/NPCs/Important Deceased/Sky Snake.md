@@ -1,0 +1,1 @@
+The being whose skeleton now makes up the framework of [[Serpent's Grave]]. Is treated by some as a god, but is really just one of the extinct floating snakes from the [[Feywild]].

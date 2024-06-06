@@ -1,0 +1,1 @@
+The UGNO is a massive collection of tribes, villages, and nomadic groupings of goblins strewn about [[Okeani]].

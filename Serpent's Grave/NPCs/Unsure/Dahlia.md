@@ -1,0 +1,3 @@
+A satyr that the party met on their way into [[The Desert]]. They purported themself as wanting to join the party on their "adventure" until being shut down. [[Sapa Fua'auro]] made an oath with them under a fake name.
+
+Dahlia revealed themself to be suspicious when they knew [[Avery]]'s name before asking for it. After being discovered, they used Dimension Door to get away. The flavor of their door was silver sparkles, which was recognized to be similar to someone important in [[The Spine]].

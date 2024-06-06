@@ -1,0 +1,1 @@
+This is a [[Misara|Misaran]] cult devoted to [[Ozymandias]]. It began before he ascended to godhood and continued until he was publicly executed. This was the physical BBEG of the campaign until [[The Heralds of Halliard|the party]] mostly finished them off before heading to Naufrage.
